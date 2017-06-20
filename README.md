@@ -1,5 +1,7 @@
 # Shopping Cart 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/incrosnatubogdan/MercurApp.svg)](https://greenkeeper.io/)
+
 ##UPDATE (10-07-2016)
 [FoodKart v0.3](https://github.com/arjunsk/ionic-firebase-shopping-cart) is released. Read the complete [tutorial series here](http://www.arjunsk.com/tag/firebase/). 
 
